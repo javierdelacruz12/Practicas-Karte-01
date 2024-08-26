@@ -43,8 +43,6 @@ Feature: Validar la correcta creación de usuario
     * assert validUserStatus.includes(response.userStatus)
 
     * print response
-    * print response
-
     Examples:
       | read('./data3/data5.csv') |
 
