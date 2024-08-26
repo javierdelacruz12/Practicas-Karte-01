@@ -1,0 +1,21 @@
+{
+  "id": "string",
+  "username": "string",
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "password": "string",
+  "phone": "string",
+  "userStatus": 0
+}
+
+
+
+//"id": "<id>",
+//"username": "<username>",
+//"firstName": "<firstName>",
+//"lastName": "<lastName>",
+//"email": "<email>",
+//"password": "<password>",
+//"phone": "<phone>",
+//"userStatus": "<userStatus>"

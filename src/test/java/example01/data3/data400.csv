@@ -1,0 +1,2 @@
+id,username,firstName,lastName,email,password,phone,userStatus,expectedStatus,expectedMessage
+1,aawmack0,Ag,Awmack,aawmack0@indiegogo.com,dK8'S9#BUq{,397-151-4945,1,500,There was an error processing your request
